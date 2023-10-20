@@ -126,7 +126,7 @@ DataX 后续计划月度迭代更新，也欢迎感兴趣的同学提交 Pull re
 This software is free to use under the Apache License [Apache license](https://github.com/alibaba/DataX/blob/master/license.txt).
 
 # 
-请及时提出issue给我们。请前往：[DataxIssue](https://github.com/alibaba/DataX/issues)
+请及时提出Issue给我们。请前往：[DataxIssue](https://github.com/alibaba/DataX/issues)
 
 # 开源版DataX企业用户
 
